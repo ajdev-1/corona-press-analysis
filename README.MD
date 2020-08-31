@@ -1,0 +1,1 @@
+Please have a look at the Jupyter notebook on [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/ajdev-1/corona-press-analysis/blob/master/COVID-19%20GIT.ipynb) since it displays the dynamic LDA Viz component.

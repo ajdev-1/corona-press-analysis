@@ -21,6 +21,7 @@ Great Britain, and France.
 Within this project, I used an open-source dataset from [IEEE DataPort](https://ieee-dataport.org/open-access/free-dataset-newsmessage-boardsblogs-about-coronavirus-4-month-data-52m-posts) that includes news/message and blog entry data. Here I have concentrated on English reports.
 
 # Technology
+In this project, I pre-processed the press articles, then clustered them using Latent Dirichlet Allocation, and finally formed different topics from these clusters.
 
 # Result Examples
 

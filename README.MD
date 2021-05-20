@@ -22,4 +22,13 @@ Within this project, I used an open-source dataset from [IEEE DataPort](https://
 
 # Technology
 
-# Results
+# Result Examples
+
+### Word clustering 
+for one of the countries. This methodology (Latent Dirichlet Allocation in combination with the vizualization tool LDAViz) has been used to identify the different topics within the data corpus.
+![image](https://user-images.githubusercontent.com/38671044/119042250-df36db00-b9b7-11eb-9c56-28c03d8542dc.png)
+
+### Probability distribution
+One of the probability charts for specific topics for one of the selected countries:
+![image](https://user-images.githubusercontent.com/38671044/119042159-c4646680-b9b7-11eb-892e-97207e96df4c.png)
+
